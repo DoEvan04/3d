@@ -1,0 +1,6 @@
+{
+  "name": "ClampStand CAD — DualSense & Headset 3D Model",
+  "description": "Precision 3D-printable desk-clamp headphone and PS5 DualSense controller stand with separate M10 helical screw and 0.2mm PLA/PETG print tolerances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
